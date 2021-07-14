@@ -1,0 +1,16 @@
+.Main {
+    padding: 7vw 5vw;
+}
+.Buttons {
+    display: flex;
+    gap: 16px;
+}
+.text {
+    font-family: Nobel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #000000;
+}
