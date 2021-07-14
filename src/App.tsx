@@ -1,14 +1,6 @@
-import React from 'react';
-import Content from './Content/Content';
-import Photo from './Photo/Photo';
+import React from "react";
+import Home from "./pages/Home";
 
-function App() {
-  return (
-    <div>
-      <Photo/>
-      <Content/>
-    </div>
-  );
-}
+const App = () => <Home />;
 
 export default App;

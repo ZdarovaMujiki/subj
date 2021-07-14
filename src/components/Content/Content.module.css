@@ -1,0 +1,7 @@
+.Main {
+    padding: 25px 16px;
+}
+.Buttons {
+    display: flex;
+    gap: 6px;
+}

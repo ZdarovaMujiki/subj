@@ -1,0 +1,26 @@
+.Main {
+    display: flex;
+    flex-direction: column;
+    background-image: url("../../assets/back1.png");
+    background-size:cover;
+    padding: 80px 16px 32px;
+    gap: 12px;
+}
+
+.Info {
+    display: flex;
+    gap: 18px;
+}
+
+.Organizer {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+}
+
+.name {
+    font-weight: 600;
+    font-size: .75rem;
+    margin: 0;
+    color: #FFFFFF;
+}
